@@ -1,0 +1,123 @@
+Category,productId,name,size,averageWeight,upc,storeProduct.price,storeProduct.basePrice,storeProduct.isWeighted
+Fruit,891145,Honeycrisp Apples,1 lb ,0.45,34680,3.49,3.99,TRUE
+Fruit,8669,Gala Apples,1 lb ,0.45,41330,1.99,1.99,TRUE
+Fruit,8665,Pink Lady Apples,1 lb ,0.45,41280,1.89,2.49,TRUE
+Fruit,37320,Bartlett Pears,1 lb ,0.45,44090,2.29,2.49,TRUE
+Fruit,37277,Granny Smith Apples,1 lb ,0.45,41390,1.79,2.49,TRUE
+Fruit,8487,Jumbo Honeycrisp Apples,1 lb ,0.6,32830,2.99,3.29,TRUE
+Fruit,36380,Driscoll's Strawberries,1 lb ,,7.16E+11,5,6.49,FALSE
+Fruit,8666,Fuji Apples,1 lb ,0.5,41290,1.79,2.49,TRUE
+Fruit,8504,Red Delicious Apples,1 lb ,0.45,40150,1.59,1.89,TRUE
+Fruit,37324,Anjou Pears,1 lb ,0.5,44160,2.29,2.29,TRUE
+Fruit,37182,Golden Delicious Apples,1  lb ,0.4,40210,1.89,1.89,TRUE
+Fruit,87554,Bartlett Pears,1 lb ,0.4,40240,1.79,2.49,TRUE
+Fruit,37496,Organic Honeycrisp Apples,1 lb ,0.45,932830,2.98,4.99,TRUE
+Fruit,2570,Organic Gala Apples,1 lb ,0.4,941330,2.49,2.49,TRUE
+Fruit,3396316,Basket & Bushel Fresh Strawberries,16 oz ,,36800490400,2.99,5.99,FALSE
+Fruit,71324,Driscoll's Organic Strawberries,1 lb ,,7.16E+11,6.99,8.99,FALSE
+Fruit,8667,Pink Lady Apples,1 lb ,0.45,41300,1.89,2.49,TRUE
+Fruit,36377,Organic Driscoll's Raspberries,6 oz ,,7.16E+11,5.99,5.99,FALSE
+Fruit,67124,Lil Snappers Gala Apples,3 lb Bag,,7.42E+11,5.99,5.99,FALSE
+Fruit,3452423,Basket & Bushel Red Raspberries,6 oz ,,36800490460,5,4.49,FALSE
+Fruit,67126,Lil' Snapper Pink Lady Apples,3 lb Bag,,7.42E+11,5.99,5.99,FALSE
+Fruit,3452424,Basket & Bushel Red Raspberries,12 oz ,,36800490470,6.88,7.99,FALSE
+Fruit,3326801,Short Cuts Watermelon,19.5 oz ,,75450278250,6.99,6.99,FALSE
+Fruit,3327194,Short Cuts Watermelon,13 oz ,,75450278360,4.99,4.99,FALSE
+Fruit,37187,Whole Seedless Watermelon,1 ea ,11.45,40320,5.99,9.99,FALSE
+Fruit,8781,Plums,1 lb ,0.25,44400,2.99,2.99,TRUE
+Fruit,8640,Red Plums,1 lb ,0.25,40420,2.99,3.49,TRUE
+Fruit,73918,Watermelon Quarters,1 lb ,2.8,2.7E+11,0.99,1.49,TRUE
+Fruit,8506,Jumbo Granny Smith Apples,1 lb ,0.5,40170,1.99,1.99,TRUE
+Fruit,93606,Organic Granny Smith Apples,1 lb ,0.4,941390,2.49,2.49,TRUE
+Fruit,37584,Organic Pink Lady Apples,1 lb ,0.4,941280,2.49,2.49,TRUE
+Fruit,37173,Personal Size Watermelon,1 lb ,,34210,5.49,5.99,FALSE
+Fruit,8513,Black Plums,1 lb ,0.25,40400,3.99,4.99,TRUE
+Fruit,3404952,Basket & Bushel Strawberries,2 lbs ,,36800490410,6.88,10.99,FALSE
+Fruit,73395,Watermelon Wedges With Skin,1 lb ,2.45,2.7E+11,2.49,2.99,TRUE
+Fruit,2569,Organic Fuji Apples,1 lb ,0.45,941310,2.49,2.49,TRUE
+Fruit,71926,Watermelon Chunks,19 oz ,1.25,2.7E+11,4.99,4.99,FALSE
+Fruit,3327193,Short Cuts Whole Strawberries,9.6 oz ,,75450278350,4.99,4.99,FALSE
+Fruit,3224173,Organic Raspberries,6 oz ,,7.16E+11,5.99,5.99,FALSE
+Fruit,37280,Jonagold Apples,1 lb ,0.45,41470,1.68,1.68,TRUE
+Fruit,891144,Juicy Apples,1 lb ,0.45,34670,2.99,2.99,TRUE
+Fruit,37166,Jumbo Red Delicious Apples,1 lb ,0.5,32840,1.99,1.99,TRUE
+Fruit,2558,Organic Red Delicious Apples,1 lb ,0.4,940150,2.99,2.99,TRUE
+Fruit,37565,Organic Gold Delicious Apples,1 lb ,0.4,940200,1.99,1.99,TRUE
+Fruit,413679,Paradise Raspberries,6 oz ,,7.5E+12,5,4.49,FALSE
+Fruit,37569,Organic Black Plums,1 lb ,0.35,940400,4.99,4.99,TRUE
+Vegetable,8657,Roma Tomatoes,1 lb ,0.25,40870,1.39,2.49,TRUE
+Vegetable,8648,Cucumber,1 ea ,0.85,40620,0.88,0.99,FALSE
+Vegetable,8650,Green Bell Pepper,1 ea ,,40650,0.88,1.19,FALSE
+Vegetable,37266,Red Bell Pepper,1 ea ,,40880,3,5,FALSE
+Vegetable,8832,Jalapeno Pepper,1 lb ,0.1,46930,2.99,2.99,TRUE
+Vegetable,53856,Dole Iceberg Lettuce,1 ct ,,71430031870,1.68,1.99,FALSE
+Vegetable,37193,Zucchini Squash,1 lb ,0.65,40670,1.49,1.89,TRUE
+Vegetable,8824,Tomatoes on the Vine,1 lb ,0.35,46640,3.69,3.99,TRUE
+Vegetable,8854,Greenhouse Tomatoes,1 lb ,0.55,47990,1.99,3.49,TRUE
+Vegetable,37374,Yellow Pepper,1 ea ,0.45,46800,4,5,FALSE
+Vegetable,1756690,Hy-Vee Sweet Grape Tomatoes,1 pt Clamshell,,75450162600,2.99,2.99,FALSE
+Vegetable,1650460,Fresh Express Shreds Iceberg Lettuce,8 oz ,,71279151010,1.99,1.99,FALSE
+Vegetable,37460,Yellow Squash,1 lb ,0.5,47820,1.99,2.19,TRUE
+Vegetable,8474,Orange Bell Pepper,1 ea ,,31210,4,5,FALSE
+Vegetable,905424,Pero Family Farms Snipped Green Beans,12 oz Bag,,8.75E+11,3.49,3.49,FALSE
+Vegetable,93577,English Cucumber Seedless,1 ea ,0.9,45930,5,2.99,FALSE
+Vegetable,8830,Yellow Bell Pepper,1 ea ,,46890,4,5,FALSE
+Vegetable,2973805,NatureSweet Cherub Tomatoes,10.5 oz Carton,,7.52E+11,3.99,3.99,FALSE
+Vegetable,20229,Sunset Mini-Cucumbers,12 oz Bag,,57836168260,3.49,4.99,FALSE
+Vegetable,37261,Green Leaf Lettuce,1 ea ,,40760,2.99,2.99,FALSE
+Vegetable,37444,Green Serrano Peppers,1 lb ,0.05,47090,3.99,3.99,TRUE
+Vegetable,37443,Poblano Peppers,1 lb ,0.3,47050,3.49,3.49,TRUE
+Vegetable,345870,Prime Time Sweet Mini Peppers,1 lb ,,8.96E+11,3.49,4.99,FALSE
+Vegetable,3332162,Short Cuts Diced Tri Peppers,6.72 oz ,,75450281570,3.49,3.49,FALSE
+Vegetable,2813753,Josies Organic Baby Lettuce,5 oz ,,8.17E+11,3.99,3.99,FALSE
+Vegetable,59369,Dole Shredded Iceberg Lettuce,8 oz Bag,,71430010650,2.29,2.29,FALSE
+Vegetable,8829,Red Pepper,1 ea ,0.65,46880,3,5,FALSE
+Vegetable,8651,Fresh Green Beans,1 lb ,1.45,40660,1.99,2.99,TRUE
+Vegetable,8849,Spaghetti Squash,1 lb ,3.05,47760,1.49,1.49,TRUE
+Vegetable,3228853,Short Cuts Sweet Corn,4 ct ,,75450268600,4.99,5.99,FALSE
+Vegetable,37260,Red Leaf Lettuce,1 ea ,,40750,2.99,2.99,FALSE
+Vegetable,37372,Anaheim Peppers,1 lb ,0.2,46770,2.99,2.99,TRUE
+Vegetable,1076919,Sunset Wild Wonders Gourmet Medley Tomatoes,12 oz Clamshell,,57836020850,4.99,4.99,FALSE
+Vegetable,37151,Orange Habanero Peppers,1  lb ,0.05,31250,8.99,8.99,TRUE
+Vegetable,3413622,Basket & Bushel Sugar Snap Peas,8 oz ,,36800493680,3.99,3.99,FALSE
+Vegetable,3327177,ShortCuts Large Julienne Pepper Strips,11.75 oz ,,75450277780,4.99,4.99,FALSE
+Vegetable,3413630,Basket & Bushel Sugar Snap Peas,15 oz ,,36800493780,5.99,5.99,FALSE
+Vegetable,3012070,"Pero Family Farms Green Beans, Snipped",2 lb ,,8.75E+11,6.99,6.99,FALSE
+Vegetable,3413621,Basket & Bushel Snow Peas,6 oz ,,36800493670,3.99,3.99,FALSE
+Vegetable,37263,Fresh Sweet Corn,1 ct ,,40780,0.99,3,FALSE
+Vegetable,8845,Butternut Squash,1 lb ,2.3,47590,1.49,1.49,TRUE
+Vegetable,37453,Acorn Squash,1 lb ,1.4,47500,1.49,1.49,TRUE
+Vegetable,410515,Sunset Campari Tomatoes,1 lb Clamshell,,57836020640,4.99,4.99,FALSE
+Vegetable,10975,Greenhouse Cucumbers,1 ea ,,33383671010,5,2.99,FALSE
+Vegetable,93645,Organic Romaine Lettuce Bunch,1 ea ,1.2,946400,2.99,2.99,FALSE
+Vegetable,835471,Beaver Creek Produce Butterhead Lettuce,1 ct ,,7.28E+11,4.99,4.99,FALSE
+Vegetable,763253,The Little Potato Company Garlic Parsley Microwave Potatoes,1 lb ,,6.29E+11,4.99,4.99,FALSE
+Vegetable,1843637,Josie's Organics Iceberg Lettuce,1 ct ,,8.59E+11,3.99,3.99,FALSE
+Vegetable,37174,Heirloom Tomatoes,1  lb ,0.6,34230,3.49,4.99,TRUE
+Vegetable,763270,The Little Potato Company Savory Herb Microwave Potatoes,1 lb ,,6.29E+11,4.99,4.99,FALSE
+Vegetable,1723983,The Little Potato Company Garlic Herb,1 lb ,,6.29E+11,4.99,4.99,FALSE
+Vegetable,93531,Organic Green Leaf Lettuce,1 ea ,,940760,2.99,2.99,FALSE
+Vegetable,236637,Dole Family Size Shredded Lettuce,16 oz ,,71430846160,3.99,3.99,FALSE
+Vegetable,3298705,Organic Zucchini Squash 2CT,1 ea ,,45255153220,4.99,4.99,FALSE
+Vegetable,971695,Sunset Zima Tomatoes,1 pt ,,57836021250,3.99,3.99,FALSE
+Vegetable,99017,Organic Green Leaf Lettuce,1 ct ,,33383904070,2.99,2.99,FALSE
+Vegetable,3332163,Short Cuts Diced Green Peppers,6.72 oz ,,75450281580,3.49,3.49,FALSE
+Vegetable,37463,Cherry Tomatoes,1 pt ,1.1,47960,2.99,3.99,FALSE
+Vegetable,2703167,The Little Potato Company Onion & Chive,1 lb Tray,,6.29E+11,4.99,4.99,FALSE
+Vegetable,3298850,Organic Cucumber 2CT,1 ea ,,45255153160,4.99,4.99,FALSE
+Vegetable,3298751,Organic Yellow Squash 2CT,1 ea ,,45255153210,4.99,4.99,FALSE
+Vegetable,3367368,"Little Potato Company Roasted Garlic, Rosemary, & Thyme",1 lb ,,6.29E+11,4.99,4.99,FALSE
+Vegetable,37441,Hatch Chili Peppers,1 lb ,0.2,46960,1.99,1.99,TRUE
+Vegetable,8841,Golden Acorn Squash,1 lb ,,47510,1.49,1.49,TRUE
+Vegetable,1730136,Organic Mini Cucumbers,6 ct ,,57836930000,4.99,4.99,FALSE
+Vegetable,8503,Green Beans,1 lb ,,40060,1.99,2.99,TRUE
+Vegetable,2665164,Roasted Red Pepper Creamer Potatoes,1 lb ,,6.29E+11,4.99,4.99,FALSE
+Vegetable,3027111,The Little Potato Company Lemon & Garden Herb Fresh Creamer Potatoes With Seasoning Pack,1 lb ,,6.29E+11,4.99,4.99,FALSE
+Vegetable,1351403,Sunset Mini Kumato Tomatoes Sweet Brown Grape Tomato,1 pt ,,57836021180,3.99,3.99,FALSE
+Vegetable,93534,Organic Iceberg Lettuce,1 ct ,1,940610,3.99,3.99,FALSE
+Vegetable,338788,Crimson Tomatoes,1 ct ,,48080,2.99,2.99,TRUE
+Vegetable,3057184,Bushel Boy Medley Tomatoes,11 oz ,,8.6E+11,4.99,4.99,FALSE
+Vegetable,1693532,Melissa's Organic Cucumbers 2pk,10 oz ,,45255120220,4.99,4.99,FALSE
+Vegetable,3327176,Summer Squash Coins,1 lb ,,75450277770,4.99,4.99,FALSE
+Vegetable,1770951,Melissa's Shishito Peppers,8 oz ,,45255147750,4.49,4.49,FALSE
+Vegetable,8827,Sugar Snap Peas,10 lb ,,46750,3.99,3.99,TRUE
