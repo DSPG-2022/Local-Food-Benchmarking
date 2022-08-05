@@ -89,49 +89,28 @@ Green Peppers
 -Direct Channel:producer->consumers
 -Wholesale Channel:producer->wholesaler
 -Retail Channel:producer->wholesaler->retail->consumers
+2. Price Supply Chain
+This diagram demonstrates how price of commodities change throughout the supply chain when going through various channels
+<Insert Diagram>
+3.Price Markup Percentages
+This chart demonstrates percent increase of prices with different supllies and channels
+4. This graph highlights two key takeaways
+-Overtime, farmers are keeping less percentage share of price while retailers are gaining more percentage share of price
+-Local economy is much more affected by economic downturns than national economy
+5.Farm share vs Marketing Share
+-Buy local allows farmers to keepp more of their share
+-Buy retails spends more on marketing share and less is kept by farmer
 
-### **Indicators**
-22 indicators have been identified by the project team to include in the dashboard. The indicators have been grouped into 5 categories. Some indicators were cross-listed among multiple categories (_italicized_).
+### **Data Automation **
+1.Python and Postman Scheduler
+-Created a python scheduler to scrape websites periodically to create historical price data
 
-**Physical and Mental Health**  
+### **Forecasting using Artifical intelligence and Machine Learning **
+1. Predict future commodity prices using economic indicators and weather data
+2. Utilized Linear Regression model as it is computationally efficent
+3. Model is 85% accurate
+4. Model is highly versatile and can be used to predict local food prices in the future
 
-- Low Birth Weight
-- Percent of Immunized Children
-- % of Students Entering Kindergarten with No Obvious Dental Problems
-- _Incidence of Child Abuse/1,000 Children_
-- _Domestic Violence Rate_
-
-**Community**  
-
-- Serious Crimes/100,000 Population
-- Juvenile Arrests/100,000 Population
-- _Unemployment Rate_
-- _Incidence of Child Abuse/1,000 Children_
-- _Domestic Violence Rate_
-- Teen Births
-- Housing (availability, affordability, quality)
-- Homelessness
-
-**Education**
-
-- % of Kindergarten Students Proficient by Kindergarten Literacy Assessment
-- Educational Attainment of Mothers
-- _Quality Early Learning Environments, QRS Rating, # of Programs in a Quality Initiative_
-- _Availability of Childcare, Cost, # of Childcare Providers, # of Childcare Spaces_
-
-**Employment and Income**
-
-- % of Children Under Age 6 Living in Poverty
-- % of Children Under Age 6 with All Parents in the Workforce
-- _Unemployment Rate_
-
-**Services**
-- % of Accredited Family Support Programs in the State
-- _Quality Early Learning Environments, QRS Rating, # of Programs in a Quality Initiative_
-- _Availability of Childcare, Cost, # of Childcare Providers, # of Childcare Spaces_
-- Childcare Spots Lost Due to COVID-19
-- Availability of Doctors (pediatricians in particular) Who Accept Medicaid
-- Availability of Dentists Who Accept Medicaid
 
 <br>
 
@@ -184,11 +163,11 @@ The I2D2 Dashboard project team made three presentation during the project perio
 ### **Team**
 The Local Food Benchmarking  team  brought together backgrounds in Computer Science, Systems Engineering, Economics, and Statistics, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to policy problems in local communities.
 
-- **Todd Abraham** - Team Leader, Iowa State University, Psychology, Statistics
-- **Tiancheng Zhou** - Graduate fellow, Iowa State University Computer Science
-- **Avery Schoen** - Intern ‘24, University of Chicago, Statistics
-- **Dylan Mack** - Intern ‘24, Washington University, Systems Engineering
-- **Sonyta Ung** - Intern ‘22, Iowa State University, Computer Science
+- **Adisak Sukul** - Team Leader, Iowa State University, Computer Science
+- **Muskan Tantia** - Graduate fellow, Iowa State University Computer Science
+- **Nayha Hussain** - Intern ‘24, Clemson University, Computer Science
+- **Nabil Idris** - Intern ‘23, Iowa State University, Data Science
+- **Maxwell Skinner** - Intern ‘25, Iowa State University, Data Science
 
 <br>
 
