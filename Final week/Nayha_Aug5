@@ -1,21 +1,11 @@
-1. Local Foods
-The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There is a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces.
 
-Narrowing down the exact products that will be selected for inclusion in the initial market (It is currently anticipated that key products may include strawberries, peppers, cucumbers, sweet corn, melons and apples (rhubarb, honey, preserves, eggs, greens etc. might be current products being sold). If appropriate, this list may also include nuts, mushrooms and hydroponic greens or possibly dairy (local creameries, not AE)
-Discuss and identify possible data sources. several potential sources for collecting information have already been identified as preliminary sources. Many of these programs are already program partners with the FEED team.
-Investigate the possibility of scraping data about local food prices and availability from social media, e-commerce websites or similar sources (specifically around wholesale distribution) -- Use Google Trends to identify other potential key products by terms being searched for. Potential for geographic scope of searches. -- Explore options for similar searches on Twitter or Facebook (Facebook marketplace) using appropriate API’s -- Local food market place,
-Compare the values of the collected data with that provided by the USDA to determine if this process of collecting local data has the potential to better help producers with their decision making. – This might be done in collaboration with data being collected by the other AgMRC commodities DSPG team.
-Collect data and develop a public interface as a dashboard showcasing the market benchmarks as a series of interactive visuals.
-Identify potential aspects of the project that could be automated for future data collection and continual benchmarking
-Investigate and/or demonstrate potential use of AI to help identify impacts to local food markets. For example, weather impacts. Alternatively utilize AI to monitor where there are potential shortages or surpluses of a product in a geographic area.
-
-# Data Science for the Public Good///keep this
+# Data Science for the Public Good
 
 The Data Science for the Public Good (DSPG) Young Scholars program is an immersive summer program that engages students from across Iowa to work together on projects that address local and state government challenges around critical social issues relevant in the world today. Learn more about the program [here](https://dspg.iastate.edu/).
 
 <br>
 
-### **Local Food Benchmarking**///local food benchmarking/ intro here
+### **Local Food Benchmarking**
 The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There is a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces.
 
 Narrowing down the exact products that will be selected for inclusion in the initial market (It is currently anticipated that key products may include strawberries, peppers, cucumbers, sweet corn, melons and apples (rhubarb, honey, preserves, eggs, greens etc. might be current products being sold). If appropriate, this list may also include nuts, mushrooms and hydroponic greens or possibly dairy (local creameries, not AE)
@@ -26,39 +16,50 @@ Collect data and develop a public interface as a dashboard showcasing the market
 Identify potential aspects of the project that could be automated for future data collection and continual benchmarking
 Investigate and/or demonstrate potential use of AI to help identify impacts to local food markets. For example, weather impacts. Alternatively utilize AI to monitor where there are potential shortages or surpluses of a product in a geographic area.
 
-# Data Science for the Public Good///keep this
+# Data Science for the Public Good
 
 <br>
 
-### **Objectives**//take from slides
-Narrowing down the exact products that will be selected for inclusion in the initial market ​
-
-​
-
-Data Discovery: Identify possible data sources​
-
-​
-
-Investigate the possibility of scraping data from social media, e-commerce websites or similar sources. Use Google Trends to identify other potential key products by terms being searched​
-
-​
-
-Compare values of collected data with USDA to determine if this process of collecting local data has the potential to better help producers with decision making​
-
-​
-
-Identify potential aspects of the project that could be automated for future data collection and continual benchmarking​
-
-​
-
-Investigate and/or demonstrate potential use of AI to help identify impacts to local food markets. For example, weather impacts.​
+### **Objectives**
+-Narrowing down the exact products that will be selected for inclusion in the initial market 
+-Data Discovery: Identify possible data sources
+-Investigate the possibility of scraping data from social media, e-commerce websites or similar sources. Use Google Trends to identify other potential key products by terms being searched
+-Compare values of collected data with USDA to determine if this process of collecting local data has the potential to better help producers with decision making​
+-Identify potential aspects of the project that could be automated for future data collection and continual benchmarking​
+-Investigate and/or demonstrate potential use of AI to help identify impacts to local food markets. For example, weather impacts.​
 
 <br>
-### **Outcomes**/this is form slide
+### **Outcomes**
+1.Used Google Trends to select the top 5 commodities​
+Apple
+Strawberries
+Pears
+Tomatoes
+Green Peppers
+2.Compared the difference between USDA Vs local/Grocery/Food hubs price data
+3.End-to-end data automation process created for data collection (web scraping scheduler)
+4.Forecasted the prices and the most important variables affecting the prices using weather and economic factors
 
-### **Project Workflow**//from slide
+### **Project Workflow**
+1.Data Collection:​
+Web Scraping/Producer’s Data
+2.Data Exploration:​
+Google Trends Vs Price
+3.Finalizing the Top Commodities + Variety + Unit
+4.Comparison:​
+USDA Vs  local/Grocery/Food hubs price
+5.Data Automation:​
+Web Scraping Scheduler
+6.Forecasting Prices using Weather/Economy indicators
 
 ### **Data Collection**
+1. The code for webscraping is linked below and the websites scraped in project include:
+
+-Hyvee
+-Iowa Food Coop
+-Wheatsfield Coop
+-Walmart
+
 ### **Data **
 
 ### **Indicators**
@@ -153,7 +154,7 @@ The I2D2 Dashboard project team made three presentation during the project perio
 <br>
 
 ### **Team**
-The I2D2 Dashboard project team  brought together backgrounds in Computer Science, Systems Engineering, Economics, and Statistics, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to policy problems in local communities.
+The Local Food Benchmarking  team  brought together backgrounds in Computer Science, Systems Engineering, Economics, and Statistics, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to policy problems in local communities.
 
 - **Todd Abraham** - Team Leader, Iowa State University, Psychology, Statistics
 - **Tiancheng Zhou** - Graduate fellow, Iowa State University Computer Science
