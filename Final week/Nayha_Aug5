@@ -53,14 +53,42 @@ Web Scraping Scheduler
 6.Forecasting Prices using Weather/Economy indicators
 
 ### **Data Collection**
-1. The code for webscraping is linked below and the websites scraped in project include:
-
+1.Webscraping
+The code for webscraping is linked below and the websites scraped in project include:
+https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Final%20week
 -Hyvee
 -Iowa Food Coop
 -Wheatsfield Coop
 -Walmart
+2.Attend Des moines and Ames Farmer Market
+-Took pictures of prices and manually extracted into excel files
+-Conversations with local farmers coonfirmed that figuring out prices in local economy is difficult
+3.Cold calls/Emails
+-Sent emails and calls to local producers to gather data
 
-### **Data **
+### **Data Exploration **
+1.Google Trends
+-search for produce keywords and when they peak/probable explanation for peak
+-Comparing avg. price and google trends revealed prices are lowest when searches are highest
+
+### **Prioritization **
+1.Select Top Products by Google Trends​
+Example: Apples, Corn, Cucumbers, Strawberries etc. by Hits 
+2.Filter out Products by Area(in acres) for Iowa
+3.Select variety/unit by data availability​
+Example: Apples have multiple variety like Fuji, Gala, Red Delicious
+4.Final Products
+Apple (Red Delicious)
+Strawberries
+Pears
+Tomatoes (Heirloom)
+Green Peppers
+
+### **Compare **
+1.MARKETING CHANNEL FOR CONSUMER PRODUCTS
+-Direct Channel:producer->consumers
+-Wholesale Channel:producer->wholesaler
+-Retail Channel:producer->wholesaler->retail->consumers
 
 ### **Indicators**
 22 indicators have been identified by the project team to include in the dashboard. The indicators have been grouped into 5 categories. Some indicators were cross-listed among multiple categories (_italicized_).
