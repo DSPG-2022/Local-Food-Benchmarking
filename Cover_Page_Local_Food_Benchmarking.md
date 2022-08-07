@@ -4,8 +4,8 @@ The Data Science for the Public Good (DSPG) Young Scholars program is an immersi
 
 <br>
 
-## Wholesale Local Food Benchmarking
-### **Background**
+# Wholesale Local Food Benchmarking
+## **Background**
 The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces. While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level.  
 
 **The **goal of the project** was to develop a process that provides more localized and up to date information on regional food systems and prices around local products.**
@@ -17,7 +17,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 <br>
 
-### **Objectives**
+## **Objectives**
 
 - Data Discovery: Investigate the possibility of scraping data and getting data from social media sites
 - Use Google Trends to identify potential key products by terms being searched
@@ -29,13 +29,14 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 <br>
 
-### **Outcomes**
+## **Outcomes**
 - Used Google Trends to select the top 5 commodities (Apple, Strawberries, Pears, Tomatoes, Green Peppers)
 - Compared the difference between USDA Vs local/Grocery/Food hubs price data
 - End-to-end data automation process created for data collection (web scraping scheduler)
 - Forecasted the prices and the most important variables affecting the prices using weather and economic factors
 
 
+<br>
 
 ## **Workflow**
 
@@ -43,7 +44,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 
-**1. Data Collection**  
+### **1) Data Collection**  
 <br>
 
 
@@ -51,11 +52,13 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 - Physically attended Farmer's Market to collect local food prices
 - Called and Emailed local Iowa farmers and asked about their selling prices
 
+<br>
+
+![image](https://user-images.githubusercontent.com/17107300/183311876-4ef9f1cf-b774-4669-b012-f27cd42537a7.png)
 
 
 
 
-![image](https://user-images.githubusercontent.com/17107300/183310552-d6177dc2-5e24-4bef-8dac-5ec7cb29b0f2.png)
 
 
 
@@ -64,60 +67,85 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 
 
+<br> 
 
 
-**2. Data Exploration**  
+### **2) Data Exploration**  
 
 <br>
 
-- **Google hits by search for products over years**
-
- ![image](https://user-images.githubusercontent.com/17107300/183310820-7c88ccf8-3903-427d-bce3-caac3f459912.png)
-![image](https://user-images.githubusercontent.com/17107300/183310841-53625903-299f-43db-a8f1-f457a1ae6460.png)
-
-- **Price change over years (example Apple)**
+- Google hits by search for products over years
+<br>
 
 
- ![image](https://user-images.githubusercontent.com/17107300/183310882-5a2be2ed-81ba-41ac-bf24-6747282a44e6.png)
+![image](https://user-images.githubusercontent.com/17107300/183311562-af9ec7d3-4c5f-4abe-9bd3-0f0510facd61.png)
+
+
+
+
+
+
+<br>
+
+- Price change over years (example Apple)
+
+![image](https://user-images.githubusercontent.com/17107300/183311741-2b8a973e-5a60-4596-8fa8-94bc40e40124.png)
+
  
- - **Price difference of organic Vs non-organic prices**
+ 
+ 
+ 
+ - Price difference of organic Vs non-organic prices
 
 
-![image](https://user-images.githubusercontent.com/17107300/183310904-9fd712a7-ef5e-4cd7-9625-6337e275ceb3.png)
+![image](https://user-images.githubusercontent.com/17107300/183311769-61260556-e1eb-4f06-97d7-b90923a31728.png)
 
 
- - **Negative correlation between search trends and prices**
 
-![image](https://user-images.githubusercontent.com/17107300/183311102-3f9f2785-308a-4b57-ac1c-8771b0f1cae2.png)
+<br>
+
+ - Negative correlation between search trends and prices(Low Price when Google Searches are High)
+
+![image](https://user-images.githubusercontent.com/17107300/183311796-5cfab5b9-7d5d-498b-aef4-d99c01835a2b.png)
+
+
 
 
 <br>
 
 
 
+<br>
 
 
 
-**Education**
+### **3) Finalizing the Top Commodities/products for analysis**  
 
-- % of Kindergarten Students Proficient by Kindergarten Literacy Assessment
-- Educational Attainment of Mothers
-- _Quality Early Learning Environments, QRS Rating, # of Programs in a Quality Initiative_
-- _Availability of Childcare, Cost, # of Childcare Providers, # of Childcare Spaces_
 
-**Employment and Income**
+![image](https://user-images.githubusercontent.com/17107300/183311924-de954844-3e66-43be-b3ff-7d5bf7abc732.png)
 
-- % of Children Under Age 6 Living in Poverty
-- % of Children Under Age 6 with All Parents in the Workforce
-- _Unemployment Rate_
 
-**Services**
-- % of Accredited Family Support Programs in the State
-- _Quality Early Learning Environments, QRS Rating, # of Programs in a Quality Initiative_
-- _Availability of Childcare, Cost, # of Childcare Providers, # of Childcare Spaces_
-- Childcare Spots Lost Due to COVID-19
-- Availability of Doctors (pediatricians in particular) Who Accept Medicaid
-- Availability of Dentists Who Accept Medicaid
+
+
+
+
+
+<br>
+
+
+### **4) Comparison: USDA Vs  local/Grocery/Food hubs price**  
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
