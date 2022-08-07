@@ -5,32 +5,39 @@ The Data Science for the Public Good (DSPG) Young Scholars program is an immersi
 <br>
 
 ## Wholesale Local Food Benchmarking
-The goal of the project was to develop a process that provides more localized and up to date information on regional food systems and prices around local products.
-The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces. While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level. For the Final Presentation click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation).
+### **Background**
+The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces. While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level.  
+
+**The **goal of the project** was to develop a process that provides more localized and up to date information on regional food systems and prices around local products.**
+For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation)
 
 
 ![image](https://user-images.githubusercontent.com/17107300/183308940-2c73dfdd-b30b-4eb5-bb66-81fc56a1b3b2.png)
-
-
-
-
-
-This dashboard should serve a wide array of purposes, including providing data for early childhood agencies writing grant applications, aiding advocacy work, and informing policy-makers and legislators about the state of early childhood wellness.
+                             
 
 <br>
 
 ### **Objectives**
 
-- Identified data sources for 22 indicators
-- Collected data from different repositories/websites using API-based and web scraping tools
-- Worked within RStudio environment
-- Constructed scripts of code to semi-automate the collection, download, and processing of new data
-- Fed data to build a shiny web application to develop a fully functional, interactive dashboard with visualizations and the ability to download raw data
+- Data Discovery: Investigate the possibility of scraping data and getting data from social media sites
+- Use Google Trends to identify potential key products by terms being searched
+- Narrowing down the exact products for analysis
+- Compare values of collected data with USDA price data to determine if this helps in better decision making
+- Identify potential aspects that could be automated for future data collection
+- Investigate potential use of AI to identify impacts to local food markets. For example, weather impacts
+
 
 <br>
 
-### **Indicators**
-22 indicators have been identified by the project team to include in the dashboard. The indicators have been grouped into 5 categories. Some indicators were cross-listed among multiple categories (_italicized_).
+### **Outcomes**
+- Used Google Trends to select the top 5 commodities (Apple, Strawberries, Pears, Tomatoes, Green Peppers)
+- Compared the difference between USDA Vs local/Grocery/Food hubs price data
+- End-to-end data automation process created for data collection (web scraping scheduler)
+- Forecasted the prices and the most important variables affecting the prices using weather and economic factors
+
+
+
+
 
 **Physical and Mental Health**  
 
