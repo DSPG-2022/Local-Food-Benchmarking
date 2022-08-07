@@ -37,26 +37,66 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 
 
+## **Workflow**
 
 
-**Physical and Mental Health**  
+<br>
 
-- Low Birth Weight
-- Percent of Immunized Children
-- % of Students Entering Kindergarten with No Obvious Dental Problems
-- _Incidence of Child Abuse/1,000 Children_
-- _Domestic Violence Rate_
 
-**Community**  
+**1. Data Collection**  
+<br>
 
-- Serious Crimes/100,000 Population
-- Juvenile Arrests/100,000 Population
-- _Unemployment Rate_
-- _Incidence of Child Abuse/1,000 Children_
-- _Domestic Violence Rate_
-- Teen Births
-- Housing (availability, affordability, quality)
-- Homelessness
+
+- Web scraping from sites like Iowa Food Co-op/Walmart 
+- Physically attended Farmer's Market to collect local food prices
+- Called and Emailed local Iowa farmers and asked about their selling prices
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/17107300/183310552-d6177dc2-5e24-4bef-8dac-5ec7cb29b0f2.png)
+
+
+
+
+<br>
+
+
+
+
+
+**2. Data Exploration**  
+
+<br>
+
+- **Google hits by search for products over years**
+
+ ![image](https://user-images.githubusercontent.com/17107300/183310820-7c88ccf8-3903-427d-bce3-caac3f459912.png)
+![image](https://user-images.githubusercontent.com/17107300/183310841-53625903-299f-43db-a8f1-f457a1ae6460.png)
+
+- **Price change over years (example Apple)**
+
+
+ ![image](https://user-images.githubusercontent.com/17107300/183310882-5a2be2ed-81ba-41ac-bf24-6747282a44e6.png)
+ 
+ - **Price difference of organic Vs non-organic prices**
+
+
+![image](https://user-images.githubusercontent.com/17107300/183310904-9fd712a7-ef5e-4cd7-9625-6337e275ceb3.png)
+
+
+ - **Negative correlation between search trends and prices**
+
+![image](https://user-images.githubusercontent.com/17107300/183311102-3f9f2785-308a-4b57-ac1c-8771b0f1cae2.png)
+
+
+<br>
+
+
+
+
+
 
 **Education**
 
