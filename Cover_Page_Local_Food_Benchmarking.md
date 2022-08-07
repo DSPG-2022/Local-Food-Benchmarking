@@ -5,11 +5,11 @@ The Data Science for the Public Good (DSPG) Young Scholars program is an immersi
 <br>
 
 ## Wholesale Local Food Benchmarking
-![image](https://user-images.githubusercontent.com/17107300/183308940-2c73dfdd-b30b-4eb5-bb66-81fc56a1b3b2.png)
-
-
 The goal of the project was to develop a process that provides more localized and up to date information on regional food systems and prices around local products.
-The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces.While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level. The Presentation
+The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces. While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level. For the Final Presentation click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation).
+
+
+![image](https://user-images.githubusercontent.com/17107300/183308940-2c73dfdd-b30b-4eb5-bb66-81fc56a1b3b2.png)
 
 
 
