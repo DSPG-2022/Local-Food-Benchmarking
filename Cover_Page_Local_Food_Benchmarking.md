@@ -147,10 +147,21 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
                <br>* Average price is based on sample data points
  
  <br>
-- price trend over years for multiple data sources
-<br>
-![image](https://user-images.githubusercontent.com/17107300/183317426-d1c5903f-4921-4c70-8064-ee5195f94d21.png)
+ 
 
+ - Price trend over years for multiple data sources
+<br>
+
+![image](https://user-images.githubusercontent.com/17107300/183317507-1833cbbc-7144-4a5b-8f7e-4f258f02c853.png)
+
+ <br>
+ 
+
+ - Where is your money going when you pay $1 for apple? Is the cost really $1?
+
+<br>
+
+![image](https://user-images.githubusercontent.com/17107300/183317611-55c132c3-115d-4207-9247-6eb7501ad8a8.png)
 
 
 
