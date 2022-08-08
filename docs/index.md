@@ -200,7 +200,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 ## **Discussion and Next Steps**
 <br>
 
-- Further parameter tuning and adding more indicators to bring down the marging of error
+- Further parameter tuning and adding more indicators to bring down the margin of error
 - One key prospect in the future is to add weather data specific to where that commodity was grown, for example adding historical weather data from Washington or New York to find the correlation in how weather from those producer regions can directly impact the price of that commodity to the consumer 
 - Use computer vision algorithms to automate data collection process by extract prices from the pictures from Farmer's market
 - Run python scheduler evry week to collect the historical prices from websites
@@ -242,8 +242,7 @@ Data was obtained from different sources. The 'Code Link' column contains link t
 
 \* _Retrieved report from 2016-2021
 <br>
-The indicators were computed using public data-sets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.box.com/s/ssxvtphr6oxq5qolqtw7fdn9936uofjo)._
-
+The indicators were computed using public data-sets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.box.com/s/ssxvtphr6oxq5qolqtw7fdn9936uofjo)._ [Private]
 
 <br>
 
@@ -254,7 +253,7 @@ The indicators were computed using public data-sets obtained from different sour
 Both data scraping and model building was implemented in Python. The google trends analysis was done in R. Corresponding code is available on:
 
 - [GitHub Repository](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Codes)
-- For the Final Presentation click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation)
+- For the Final Presentation click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation) [Private]
 
 <br>
 
