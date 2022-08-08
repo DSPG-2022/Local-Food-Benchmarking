@@ -1,4 +1,4 @@
-##### Data Science for the Public Good
+# Data Science for the Public Good
 
 The Data Science for the Public Good (DSPG) Young Scholars program is an immersive summer program that engages students from across Iowa to work together on projects that address local and state government challenges around critical social issues relevant in the world today. Learn more about the program [here](https://dspg.iastate.edu/).
 
