@@ -193,9 +193,10 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 ![image](https://user-images.githubusercontent.com/17107300/183318335-fa901c98-ad97-4955-aa63-f45e5fc3d1c4.png)
 
+<br>
+<br>
 
 - Actual Vs Predicted price graph
-<br>
 <br>
 
 ![image](https://user-images.githubusercontent.com/17107300/183318411-3071cb0b-3472-4c3d-a88a-f5e3670206f0.png)
@@ -203,6 +204,13 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 
 
+<br>
+
+## **Discussion and Next Steps**
+- Further parameter tuning and adding more indicators to bring down the marging of error
+- One key prospect in the future is to add weather data specific to where that commodity was grown, for example adding historical weather data from Washington or New York to find the correlation in how weather from those producer regions can directly impact the price of that commodity to the consumer 
+- Use computer vision algorithms to automate data collection process by extract prices from the pictures from Farmer's market
+- Run python scheduler evry week to collect the historical prices from websites
 <br>
 
 ### **Data**
