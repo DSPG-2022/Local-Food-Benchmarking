@@ -167,7 +167,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 ### **6) AI: Predicting Average Price of a Commodity**  
 - Regression and XGBoost models used for prediction (Please refer the codes section for more details)
-- Computed average value of every variable at month level for years 2016 - 2021. For example: price of a commodity is calculated by taking for each month for mentioned years
+- Computed average value of each variable at monthly level for years 2016 - 2021. For example: price of a commodity is calculated by taking for each month for mentioned years
 
 
 - Indicators used:<br>
