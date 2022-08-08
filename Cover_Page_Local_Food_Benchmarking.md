@@ -199,6 +199,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 ## **Discussion and Next Steps**
+<br>
 - Further parameter tuning and adding more indicators to bring down the marging of error
 - One key prospect in the future is to add weather data specific to where that commodity was grown, for example adding historical weather data from Washington or New York to find the correlation in how weather from those producer regions can directly impact the price of that commodity to the consumer 
 - Use computer vision algorithms to automate data collection process by extract prices from the pictures from Farmer's market
@@ -207,7 +208,8 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 
 ## **Data**
-Data was obtained from different sources. The 'Code' column contains link to code that utilizes the data for cleaning/analysis.
+<br>
+Data was obtained from different sources. The 'Code Link' column contains link to code that utilizes the data for cleaning/analysis.
 |  No. | Data Source      | Website Link  | Code Link |
 | -    | -------------- | -------- | -------- |
 |  1   |  Walmart - Fresh Fruits |  [Link](https://www.walmart.com/browse/food/fresh-fruits/976759_976793_9756351?povid=976759_x_flyout_9756351_fresh-fruits_Rweb_07_18) | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/WebScraping_scheduler.ipynb) |
@@ -240,6 +242,7 @@ The indicators were computed using public data-sets obtained from different sour
 <br>
 
 ### **Code**
+<br>
 Both data scraping and model building was implemented in Python. The google trends analysis was done in R. Corresponding code is available on:
 
 - [GitHub Repository](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Codes)
@@ -247,7 +250,7 @@ Both data scraping and model building was implemented in Python. The google tren
 <br>
 
 ### **Other Documents**
-
+<br>
 - https://www.agmrc.org/fruit-and-vegetable-market-data?StartDate=2022-03-18&EndDate=2022-03-25&page=1&items=25
 - https://www.ers.usda.gov/publications/pub-details/?pubid=101785ohttps://www.ers.usda.gov/data-products/food-dollar-series/
 - https://www.ers.usda.gov/data-products/food-consumption-and-nutrient-intakes/
@@ -257,6 +260,7 @@ Both data scraping and model building was implemented in Python. The google tren
 <br>
 
 ### **Team**
+<br>
 The team  brought together backgrounds in Computer Science, Data Science, Economics, and Political Science, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to products at the local level.
 
 - **Adisak Sukul** - Team Leader, Iowa State University, Computer Science
