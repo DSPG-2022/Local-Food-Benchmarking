@@ -6,7 +6,7 @@ The Data Science for the Public Good (DSPG) Young Scholars program is an immersi
 
 # Wholesale Local Food Benchmarking
 ## **Background**
-The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces. While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level.  
+The Iowa State Farm Food and Enterprise Development (FEED) is frequently asked for benchmarks on pricing of products both in retail and wholesale spaces. This occurs both within feasibility studies for new farm and food businesses and market assessments, as well as appropriate price points for selling to schools and early care sites, hospitals, universities, and other institutions. There was a need for additional data and research on the potential sales point for these wholesale products when many of our specialty crop producers across the state are operating in direct-to-consumer retail spaces. While data is available from the AMS and USDA (including the Agricultural Census), there is limited aggregation of sales for these products at the local level. 
 
 **The **goal of the project** was to develop a process that provides more localized and up to date information on regional food systems and prices around local products.**
 For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation)
@@ -30,7 +30,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 ## **Outcomes**
-- Used Google Trends to select the top 5 commodities (Apple, Strawberries, Pears, Tomatoes, Green Peppers)
+- Used Google Trends to select the top five commodities (Apple, Strawberries, Pears, Tomatoes, Green Peppers)
 - Compared the difference between USDA Vs local/Grocery/Food hubs price data
 - End-to-end data automation process created for data collection (web scraping scheduler)
 - Forecasted the prices and the most important variables affecting the prices using weather and economic factors
@@ -42,7 +42,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 ### **1) Data Collection**  
-- Web scraping from sites like Iowa Food Co-op/Walmart 
+- Web scraping from sites like Iowa Food Co-op/Walmart 
 - Physically attended Farmer's Market to collect local food prices
 - Contacted local Iowa farmers for the selling price information
 
@@ -98,7 +98,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 <br>
 
- - Negative correlation between search trends and prices(Low Price when Google Searches are High)
+ - Negative correlation between search trends and prices (Low Price when Google Searches are High)
 
 ![image](https://user-images.githubusercontent.com/17107300/183311796-5cfab5b9-7d5d-498b-aef4-d99c01835a2b.png)
 
@@ -127,9 +127,9 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 
-### **4) Comparison: USDA Vs  local/Grocery/Food Hubs Price**  
+### **4) Comparison: USDA Vs local/Grocery/Food Hubs Price**  
 
-- Comare the USDA price with the prices from all the data sources like Walmart or Institution or Wheatsfield
+- Compare the USDA price with the prices from all the data sources like Walmart or Institution or Wheatsfield
 
 ![image](https://user-images.githubusercontent.com/17107300/183317152-30e1f64c-5e9a-4a01-9a16-6a66ad379f1d.png)
 
@@ -165,12 +165,12 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 
-### **6) AI: Predicting Average Price of a Commodity**  
+### **6) AI: Predicting Average Price of a Commodity**  
 - Regression and XGBoost models used for prediction (Please refer the codes section for more details)
 - Indicators used:<br>
 
       1. Historical USDA retail price data of apples and tomatoes in the Midwest region (USDA Market News)
-      2. Historical precipitation and temperature data from ISU mesonet: https://mesonet.agron.iastate.edu/ 
+      2. Historical precipitation and temperature data from ISU mesonet: https://mesonet.agron.iastate.edu/ 
       3. Drought data in Story County, Iowa (drought.gov)
       4. 10 Year US Interest Rate (USO_US_Equity)
       5. Gold Bullion historical price (GLD_US_equity)
@@ -201,9 +201,9 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 - Further parameter tuning and adding more indicators to bring down the margin of error
-- One key prospect in the future is to add weather data specific to where that commodity was grown, for example adding historical weather data from Washington or New York to find the correlation in how weather from those producer regions can directly impact the price of that commodity to the consumer 
+- One key prospect in the future is to add weather data specific to where that commodity was grown, for example adding historical weather data from Washington or New York to find the correlation in how weather from those producer regions can directly impact the price of that commodity to the consumer 
 - Use computer vision algorithms to automate data collection process by extract prices from the pictures from farmer's market
-- Run python scheduler evry week to collect the historical prices from websites
+- Run python scheduler every week to collect the historical prices from websites
 <br>
 
 
@@ -212,7 +212,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 
-Data was obtained from different sources. The 'Code Link' column contains link to code that utilizes the data for cleaning/analysis.
+Data was obtained from various sources. The 'Code Link' column contains link to code that utilizes the data for cleaning/analysis.
 
 <br>
 
@@ -220,8 +220,8 @@ Data was obtained from different sources. The 'Code Link' column contains link t
 | -    | -------------- | -------- | -------- |
 |  1   |  Walmart - Fresh Fruits |  [Link](https://www.walmart.com/browse/food/fresh-fruits/976759_976793_9756351?povid=976759_x_flyout_9756351_fresh-fruits_Rweb_07_18) | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/WebScraping_scheduler.ipynb) |
 |  2   |  Walmart - Fresh Vegetables|  [Link](https://www.walmart.com/browse/food/fresh-vegetables/976759_976793_8910423?povid=976759_x_flyout_8910423_fresh-vegetables_Rweb_07_18) |  [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/WebScraping_scheduler.ipynb) |
-|  3   |  Hyvee - Fresh Fruits | [Link](https://www.hy-vee.com/aisles-online/browse/fresh/fresh-fruits-and-vegetables/fresh-fruits)                                                                                                                                                                                  | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Hyvee_Scraper.ipynb)              |                  
-| 4   | Hyvee - Fresh Vegetables                       | [Link](https://www.hy-vee.com/aisles-online/browse/fresh/fresh-fruits-and-vegetables/fresh-vegetables)                                                                                                                                                                              | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Hyvee_Scraper.ipynb)              |
+|  3   |  Hy-Vee - Fresh Fruits | [Link](https://www.hy-vee.com/aisles-online/browse/fresh/fresh-fruits-and-vegetables/fresh-fruits)                                                                                                                                                                                  | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Hyvee_Scraper.ipynb)              |                  
+| 4   | Hy-Vee - Fresh Vegetables                       | [Link](https://www.hy-vee.com/aisles-online/browse/fresh/fresh-fruits-and-vegetables/fresh-vegetables)                                                                                                                                                                              | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Hyvee_Scraper.ipynb)              |
 | 5   | Iowa Food Coop                                 | [Link](https://shop.iowafood.coop/)                                                                                                                                                                                                                                                 | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/IowaFoodCoop_Scraper.ipynb) |
 | 6   | Park Slope Food Co-op                          | [Link](https://www.foodcoop.com/produce/)                                                                                                                                                                                                                                           |           | -
 | 7   | Prudent Produce - Fruit                        | [Link](https://www.prudentproduce.net/shop/fruit)                                                                                                                                                                                                                                   | - |
@@ -242,7 +242,7 @@ Data was obtained from different sources. The 'Code Link' column contains link t
 
 \* _Retrieved report from 2016-2021
 <br>
-The indicators were computed using public data-sets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.box.com/s/ssxvtphr6oxq5qolqtw7fdn9936uofjo)._ [Private]
+The indicators were computed using public datasets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.box.com/s/ssxvtphr6oxq5qolqtw7fdn9936uofjo)._ [Private]
 
 <br>
 
@@ -273,7 +273,7 @@ Both data scraping and model building was implemented in Python. The google tren
 
 <br>
 
-The team  brought together backgrounds in Computer Science, Data Science, Economics, and Political Science, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to products at the local level.
+The team brought together backgrounds in Computer Science, Data Science, Economics, and Political Science, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to products at the local level.
 
 - **Adisak Sukul** - Team Leader, Iowa State University, Computer Science
 - **Muskan Tantia** - Graduate fellow, Iowa State University, Computer Science
