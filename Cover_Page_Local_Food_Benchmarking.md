@@ -244,13 +244,10 @@ The indicators were computed using public data-sets obtained from different sour
 <br>
 
 ### **Code**
-Both data scraping and dashboard development was implemented in R. Corresponding code is available on:
+Both data scraping and model building was implemented in Python. The google trends analysis was done in R. Corresponding code is available on:
 
-- [GitHub Repository](https://github.com/DSPG2021/i2d2) (limited access, owned by Adisak Sukul)
-- [Iowa IDS CyBox](https://iastate.app.box.com/folder/152647528114) under `Iowa IDS` > `Projects` > `2021 Dashboard` > `Code` > `DSPG_2021` (private)
-
-The final version of the dashboard was deployed on shinyapps.io by [Giorgi Chighladze](https://github.com/giorgichi) at [https://i2d2.shinyapps.io/DSPG_2021_Dashboard/](https://i2d2.shinyapps.io/DSPG_2021_Dashboard/).
-
+- [GitHub Repository](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Codes)
+- For the Final Presentation click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation)
 <br>
 
 ### **Other Documents**
