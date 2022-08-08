@@ -213,33 +213,37 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 - Run python scheduler evry week to collect the historical prices from websites
 <br>
 
-### **Data**
-The indicators were computed using public data-sets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.app.box.com/file/844461079162?s=wsb68re1hs0qgnfba6r5lupx59hdvwip).
 
-|  No. | Indicator      | Source   | Year* |
-| -    | -------------- | -------- | :--: |
-|  1   |  Low birth weight |  Iowa Department of Public Health | 2015-2019 |
-|  2   |  Percent of immunized children |  Iowa Department of Public Health  | 2020 |
-|  3   |  K assessment data |  FastBridge | 2020-2021 |
-|  4   |  % of students entering K with no obvious dental problems |  Iowa Department of Public Health | 2016-2019 |
-|  5   |  Educational attainment of mothers |  ACS | 2010-2019 |
-|  6   |  Serious crime/100,000 population |  Uniform Crime Report | 2019 |
-|  7   |  Juvenile arrests/100,000 population |  Iowa Division of Criminal and Juvenile Justice Planning | 2015-2018 |
-|  8   |  Unemployment rate |  Iowa Workforce Development  | 2001-2021 |
-|  9   |  % of children under age 6 living in poverty (recommended to break down by education, race, marital status, and employment)  |  ACS | 2009-2019 and 2013-2019 |
-|  10  |  % of children under age 6 with all parents in the workforce |   ACS | 2009-2019 |
-|  11  |  Incidence of child abuse/1,000 children |   Iowa Department of Human Services | 2004-2020 |
-|  13  |  Domestic violence rate |    |  |
-|  14  |  Teen births |   Iowa Department of Public Health  | 2000-2019 |
-|  15  |  % of accredited family support programs in the state |   Iowa Department of Human Services | 2020 |
-|  16  |  Quality early learning environments, QRS rating, # of programs in a quality initiative |   Iowa Department of Human Services | 2020 |
-|  17  |  Availability of child care, cost, # of childcare providers, # of childcare spaces |   Iowa Department of Human Services | 2020 |
-|  18  |  Possibly specifically the number of slots lost during COVID-19? |   Iowa Department of Human Services |  |
-|  19  |  Availability of pediatrics who accept medicaid by county |   Iowa Department of Human Services | Data updates daily |
-|  20  |  Availability of dentists who accept medicaid by county |   Iowa Department of Human Services | Data updates daily |
-|  22  |  Homelessness |   Institute for Community Alliances | 2019-2021 |
+## **Data**
+Data was obtained from different sources. The 'Code' column contains link to code that utilizes the data for cleaning/analysis.
+|  No. | Data Source      | Website Link  | Code Link |
+| -    | -------------- | -------- | -------- |
+|  1   |  Walmart - Fresh Fruits |  [Link](https://www.walmart.com/browse/food/fresh-fruits/976759_976793_9756351?povid=976759_x_flyout_9756351_fresh-fruits_Rweb_07_18) | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/WebScraping_scheduler.ipynb) |
+|  2   |  Walmart - Fresh Vegetables|  [Link](https://www.walmart.com/browse/food/fresh-vegetables/976759_976793_8910423?povid=976759_x_flyout_8910423_fresh-vegetables_Rweb_07_18) |  [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/WebScraping_scheduler.ipynb) |
+|  3   |  Hyvee - Fresh Fruits | [Link](https://www.hy-vee.com/aisles-online/browse/fresh/fresh-fruits-and-vegetables/fresh-fruits)                                                                                                                                                                                  | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Hyvee_Scraper.ipynb)              |                  
+| 4   | Hyvee - Fresh Vegetables                       | [Link](https://www.hy-vee.com/aisles-online/browse/fresh/fresh-fruits-and-vegetables/fresh-vegetables)                                                                                                                                                                              | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Hyvee_Scraper.ipynb)              |
+| 5   | Iowa Food Coop                                 | [Link](https://shop.iowafood.coop/)                                                                                                                                                                                                                                                 | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/IowaFoodCoop_Scraper.ipynb) |
+| 6   | Park Slope Food Co-op                          | [Link](https://www.foodcoop.com/produce/)                                                                                                                                                                                                                                           |           | -
+| 7   | Prudent Produce - Fruit                        | [Link](https://www.prudentproduce.net/shop/fruit)                                                                                                                                                                                                                                   | - |
+| 8   | Prudent Produce - Vegetable                    | [Link](https://www.prudentproduce.net/shop/vegetables)                                                                                                                                                                                                                              | -  |
+| 9   | USDA - AMS (Apple)*                            | [Link](https://www.marketnews.usda.gov/mnp/fv-report-retail?repType=&run=&portal=fv&locChoose=&commodityClass=&startIndex=1&type=retail&class=FRUITS&commodity=APPLES&region=MIDWEST+U.S.&organic=ALL&repDate=07%2F23%2F2022&endDate=07%2F29%2F2022&compareLy=No)                   | -                                                                                              |
+| 10  | USDA - AMS (Strawberries)*                     | [Link](https://www.marketnews.usda.gov/mnp/fv-report-retail?portal=fv&category=retail&type=retail&region=NATIONAL&organic=ALL&navClass=FRUITS&commodity=STRAWBERRIES)                                                                                                               | -                                                                                            |
+| 11  | USDA - AMS (Pears)*                            | [Link](https://www.marketnews.usda.gov/mnp/fv-report-retail?repType=&run=&portal=fv&locChoose=&commodityClass=&startIndex=1&type=retail&class=FRUITS&commodity=PEARS&region=MIDWEST+U.S.&organic=ALL&repDate=07%2F23%2F2022&endDate=07%2F29%2F2022&compareLy=No)                    | -                                                                                              |
+| 12  | USDA - AMS (Tomatoes)*                         | [Link](https://www.marketnews.usda.gov/mnp/fv-report-retail?repType=&run=&portal=fv&locChoose=&commodityClass=&startIndex=1&type=retail&class=VEGETABLES&commodity=TOMATOES&region=MIDWEST+U.S.&organic=ALL&repDate=07%2F23%2F2022&endDate=07%2F29%2F2022&compareLy=No)             | -                                                                                              |
+| 13  | USDA - AMS (Green Pepper)*                     | [Link](https://www.marketnews.usda.gov/mnp/fv-report-retail?repType=&run=&portal=fv&locChoose=&commodityClass=&startIndex=1&type=retail&class=VEGETABLES&commodity=PEPPERS%2C+BELL+TYPE&region=MIDWEST+U.S.&organic=ALL&repDate=07%2F23%2F2022&endDate=07%2F29%2F2022&compareLy=No) | -                                                                                              |
+| 14  | Wheatsfield Co-op                              | Private                                                                                                                                                                                                                                                                             |                                                                                                       |
+| 15  | Sysco - Wholesale Restaurant Food Distributor  | Private                                                                                                                                                                                                                                                                             |                                                                                                       |
+| 16  | Iowa State University(ISU) Dining              | Private                                                                                                                                                                                                                                                                             |                                                                                                       |
+| 17  | Stock Indexes                                  | [Link](https://www.bloomberg.com/markets/stocks)                                                                                                                                                                                                                                    | -                                                                                             |
+| 18  | Google Trends                                 | [Link](https://trends.google.com/trends/?geo=US)                                                                                                                                                                                                                                    | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Google%20Trends%20Analysis.R)          |
+| 19  | Iowa Environmental Mesonet                     | [Link](https://mesonet.agron.iastate.edu/)                                                                                                                                                                                                                                          | -                                                                                             |
+| 20  | National Integrated Drought Information System | [Link](https://www.drought.gov/)                                                                                                                                                                                                                                                    | -                                                                                              |
+| 21  | Farmers Market                                 | [Link](https://iastate.box.com/s/glt4wrmsqhag98f94osfxxe3iwjx9yxq)                                                                                                                                                                                                                  | -                                                                                             |
 
-\* _Number of available years does not always correspond to the number of data-years obtained by the project team._
+\* _Retrieved report from 2016-2021
+<br>
+The indicators were computed using public data-sets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.box.com/s/ssxvtphr6oxq5qolqtw7fdn9936uofjo)._
+
 
 <br>
 
