@@ -254,18 +254,22 @@ The final version of the dashboard was deployed on shinyapps.io by [Giorgi Chigh
 <br>
 
 ### **Other Documents**
-The I2D2 Dashboard project team made three presentation during the project period which could be found along with the recording of the presentations on [Iowa IDS CyBox](https://iastate.app.box.com/folder/145226631787) under `Iowa IDS` > `Projects` > `2021 Dashboard` > `DSPG 2021 work` > `DSPG 2021 Presentations` (private).
 
+- https://www.agmrc.org/fruit-and-vegetable-market-data?StartDate=2022-03-18&EndDate=2022-03-25&page=1&items=25
+- https://www.ers.usda.gov/publications/pub-details/?pubid=101785ohttps://www.ers.usda.gov/data-products/food-dollar-series/
+- https://www.ers.usda.gov/data-products/food-consumption-and-nutrient-intakes/
+- https://www.ers.usda.gov/data-products/arms-farm-financial-and-crop-production-practices/
+- https://www.ers.usda.gov/publications/pub-details/?pubid=42807
 
 <br>
 
 ### **Team**
 The I2D2 Dashboard project team  brought together backgrounds in Computer Science, Systems Engineering, Economics, and Statistics, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to policy problems in local communities.
 
-- **Todd Abraham** - Team Leader, Iowa State University, Psychology, Statistics
-- **Tiancheng Zhou** - Graduate fellow, Iowa State University Computer Science
-- **Avery Schoen** - Intern ‘24, University of Chicago, Statistics
-- **Dylan Mack** - Intern ‘24, Washington University, Systems Engineering
-- **Sonyta Ung** - Intern ‘22, Iowa State University, Computer Science
+- **Adisak Sukul** - Team Leader, Iowa State University, Computer Science
+- **Muskan Tantia** - Graduate fellow, Iowa State University, Computer Science
+- **Maxwell Skinner** - Intern, Iowa State University, Data Science & Political Science
+- **Nabil Idris** - Intern, Iowa State University, Data Science
+- **Nayha Hussain** - Intern, Clemson University, Computer Science and Economics
 
 <br>
