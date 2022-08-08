@@ -168,14 +168,14 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 ### **5) Data Automation**  
 
-- Scrape the product information using Python and Postman API for automation
-- Script to schedule the web scraping process to run at a certain time per day/week (for more details steps please refer the presentation [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation))
+- Scrape the product information using Python and Postman API for automation (Please refer the codes section for more details)
+- Script to schedule the web scraping process to run at a certain time per day/week (For more detailed steps please refer the presentation [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation))
 
 <br>
 
 
 ### **6) AI: Predicting Average Price of a Commodity**  
-- Regression and XGBoost models used for prediction
+- Regression and XGBoost models used for prediction (Please refer the codes section for more details)
 - Indicators used:<br>
 
       1. Historical USDA retail price data of apples and tomatoes in the Midwest region (USDA Market News)
@@ -194,8 +194,11 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 ![image](https://user-images.githubusercontent.com/17107300/183318335-fa901c98-ad97-4955-aa63-f45e5fc3d1c4.png)
 
 
+- Actual Vs Predicted price graph
+<br>
+<br>
 
-
+![image](https://user-images.githubusercontent.com/17107300/183318411-3071cb0b-3472-4c3d-a88a-f5e3670206f0.png)
 
 
 
