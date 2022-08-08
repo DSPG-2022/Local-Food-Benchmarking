@@ -214,6 +214,9 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 
 Data was obtained from different sources. The 'Code Link' column contains link to code that utilizes the data for cleaning/analysis.
+
+<br>
+
 |  No. | Data Source      | Website Link  | Code Link |
 | -    | -------------- | -------- | -------- |
 |  1   |  Walmart - Fresh Fruits |  [Link](https://www.walmart.com/browse/food/fresh-fruits/976759_976793_9756351?povid=976759_x_flyout_9756351_fresh-fruits_Rweb_07_18) | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/WebScraping_scheduler.ipynb) |
