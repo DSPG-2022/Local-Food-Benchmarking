@@ -136,21 +136,20 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 ### **4) Comparison: USDA Vs  local/Grocery/Food hubs price**  
 
 - Divide the prices in 3 buckets
-<br> 
+- Comare the USDA price with the prices from all the data sources like Walmart or Institution or Wheatsfield
+
+![image](https://user-images.githubusercontent.com/17107300/183317152-30e1f64c-5e9a-4a01-9a16-6a66ad379f1d.png)
+
 **Grower price** - price the grower (ex- farmer) receives 
-              <br>**Wholesale price** - price received by the wholesaler if there is one between the grower and the retailer
+              <br> **Wholesale price** - price received by the wholesaler if there is one between the grower and the retailer
               <br>
-              **Retail price** - price received by the store or retail outlet
-              
-              
-              
-
-- Comaring the USDA price with the prices from all the data sources like Walmart or Institution or Wheatsfield
-
-![image](https://user-images.githubusercontent.com/17107300/183312549-6318458e-4d4c-4aba-8abf-0d8a8b146fe1.png)
-
-
-
+               **Retail price** - price received by the store or retail outlet
+               <br>* Average price is based on sample data points
+ 
+ <br>
+- price trend over years for multiple data sources
+<br>
+![image](https://user-images.githubusercontent.com/17107300/183317426-d1c5903f-4921-4c70-8064-ee5195f94d21.png)
 
 
 
