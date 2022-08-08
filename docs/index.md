@@ -44,7 +44,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 ### **1) Data Collection**  
 - Web scraping from sites like Iowa Food Co-op/Walmart 
 - Physically attended Farmer's Market to collect local food prices
-- Called and Emailed local Iowa farmers and asked about their selling prices
+- Contacted local Iowa farmers for the selling price information
 
 <br>
 
@@ -202,7 +202,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 - Further parameter tuning and adding more indicators to bring down the margin of error
 - One key prospect in the future is to add weather data specific to where that commodity was grown, for example adding historical weather data from Washington or New York to find the correlation in how weather from those producer regions can directly impact the price of that commodity to the consumer 
-- Use computer vision algorithms to automate data collection process by extract prices from the pictures from Farmer's market
+- Use computer vision algorithms to automate data collection process by extract prices from the pictures from farmer's market
 - Run python scheduler evry week to collect the historical prices from websites
 <br>
 
