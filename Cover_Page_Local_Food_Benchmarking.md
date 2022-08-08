@@ -113,7 +113,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 
 
-### **3) Finalizing the Top Commodities/products for analysis**  
+### **3) Finalizing the Top Commodities/products for Analysis**  
 
 
 ![image](https://user-images.githubusercontent.com/17107300/183311924-de954844-3e66-43be-b3ff-7d5bf7abc732.png)
@@ -127,7 +127,7 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 
-### **4) Comparison: USDA Vs  local/Grocery/Food hubs price**  
+### **4) Comparison: USDA Vs  local/Grocery/Food Hubs Price**  
 
 - Divide the prices in 3 buckets
 - Comare the USDA price with the prices from all the data sources like Walmart or Institution or Wheatsfield
