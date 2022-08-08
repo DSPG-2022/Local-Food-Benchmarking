@@ -163,6 +163,38 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
 ![image](https://user-images.githubusercontent.com/17107300/183317611-55c132c3-115d-4207-9247-6eb7501ad8a8.png)
 
+<br>
+
+
+### **5) Data Automation**  
+
+- Scrape the product information using Python and Postman API for automation
+- Script to schedule the web scraping process to run at a certain time per day/week (for more details steps please refer the presentation [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation))
+
+<br>
+
+
+### **6) AI: Predicting Average Price of a Commodity**  
+- Regression and XGBoost models used for prediction
+- Indicators used:<br>
+
+      1. Historical USDA retail price data of apples and tomatoes in the Midwest region (USDA Market News)
+      2. Historical precipitation and temperature data from ISU mesonet: https://mesonet.agron.iastate.edu/ 
+      3. Drought data in Story County, Iowa (drought.gov)
+      4. 10 Year US Interest Rate (USO_US_Equity)
+      5. Gold Bullion historical price (GLD_US_equity)
+      6. Crude oil futures (WTI)
+      7. BCOM Index Bloomberg Commodity Index (BCOM_Index)
+  
+         
+
+- Top features by the model
+<br>
+
+![image](https://user-images.githubusercontent.com/17107300/183318335-fa901c98-ad97-4955-aa63-f45e5fc3d1c4.png)
+
+
+
 
 
 
