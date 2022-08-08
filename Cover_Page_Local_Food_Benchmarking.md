@@ -39,15 +39,9 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 <br>
 
 ## **Workflow**
-
-
 <br>
-
 
 ### **1) Data Collection**  
-<br>
-
-
 - Web scraping from sites like Iowa Food Co-op/Walmart 
 - Physically attended Farmer's Market to collect local food prices
 - Called and Emailed local Iowa farmers and asked about their selling prices
@@ -150,7 +144,6 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
  
 
  - Price trend over years for multiple data sources
-<br>
 
 ![image](https://user-images.githubusercontent.com/17107300/183317507-1833cbbc-7144-4a5b-8f7e-4f258f02c853.png)
 
@@ -159,7 +152,6 @@ For the _**Final Presentation**_ click [here](https://github.com/DSPG-2022/Local
 
  - Where is your money going when you pay $1 for apple? Is the cost really $1?
 
-<br>
 
 ![image](https://user-images.githubusercontent.com/17107300/183317611-55c132c3-115d-4207-9247-6eb7501ad8a8.png)
 
