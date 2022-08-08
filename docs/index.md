@@ -241,11 +241,11 @@ Data was obtained from various sources. The 'Code Link' column contains link to 
 | 18  | Google Trends                                 | [Link](https://trends.google.com/trends/?geo=US)                                                                                                                                                                                                                                    | [Link](https://github.com/DSPG-2022/Local-Food-Benchmarking/blob/main/Codes/Google%20Trends%20Analysis.R)          |
 | 19  | Iowa Environmental Mesonet                     | [Link](https://mesonet.agron.iastate.edu/)                                                                                                                                                                                                                                          | -                                                                                             |
 | 20  | National Integrated Drought Information System | [Link](https://www.drought.gov/)                                                                                                                                                                                                                                                    | -                                                                                              |
-| 21  | Farmers Market                                 | [Link](https://iastate.box.com/s/glt4wrmsqhag98f94osfxxe3iwjx9yxq)                                                                                                                                                                                                                  | -                                                                                             |
+| 21  | Farmers Market                                 | [Link]()                                                                                                                                                                                                                  | -                                                                                             |
 
 \* _Retrieved report from 2016-2021
 <br>
-The indicators were computed using public datasets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here](https://iastate.box.com/s/ssxvtphr6oxq5qolqtw7fdn9936uofjo)._ [Private]
+The indicators were computed using public datasets obtained from different sources/agencies. Number of available years and granularity of the data varied across sources. Data sources for few indicators were not identified, therefore the project team could not compute the corresponding indicators. Detailed information about sources used can be found [here]()._ [Private]
 
 <br>
 
@@ -256,7 +256,7 @@ The indicators were computed using public datasets obtained from different sourc
 Both data scraping and model building was implemented in Python. The google trends analysis was done in R. Corresponding code is available on:
 
 - [GitHub Repository](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Codes)
-- For the Final Presentation click [here](https://github.com/DSPG-2022/Local-Food-Benchmarking/tree/main/Presentation) [Private]
+- For the Final Presentation click [here]() [Private]
 
 <br>
 
