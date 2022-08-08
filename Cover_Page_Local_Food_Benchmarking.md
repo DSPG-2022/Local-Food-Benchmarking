@@ -264,7 +264,7 @@ The final version of the dashboard was deployed on shinyapps.io by [Giorgi Chigh
 <br>
 
 ### **Team**
-The I2D2 Dashboard project team  brought together backgrounds in Computer Science, Systems Engineering, Economics, and Statistics, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to policy problems in local communities.
+The team  brought together backgrounds in Computer Science, Data Science, Economics, and Political Science, with interests in applications of technical skills to achieve meaningful impacts for decision making processes related to products at the local level.
 
 - **Adisak Sukul** - Team Leader, Iowa State University, Computer Science
 - **Muskan Tantia** - Graduate fellow, Iowa State University, Computer Science
